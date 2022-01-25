@@ -1,0 +1,65 @@
+#trafficTop {
+    background: black;
+    width: 10px;
+    height: 80px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+#container {
+    background-color: black;
+    display: block;
+    width: 100px;
+    height: 300px;
+    margin: auto;
+}
+.redLigth {
+    
+        height:100px;
+        width:100px;
+        background:rgb(196, 96, 96);
+        -moz-border-radius:50px;
+        -webkit-border-radius:50px;
+        border-radius:50px;
+}
+.yellowLigth {
+    height:100px;
+        width:100px;
+        background: rgb(175, 175, 74);
+        -moz-border-radius:50px;
+        -webkit-border-radius:50px;
+        border-radius:50px;
+}
+.greenLigth {
+    height:100px;
+    width:100px;
+    background: rgb(80, 185, 80);
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+}
+.redLigthFlash {
+    height:100px;
+    width:100px;
+    background:rgb(182, 13, 13);
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+}
+.yellowLigthFlash {
+    height:100px;
+    width:100px;
+    background: rgb(247, 247, 4);
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    
+}
+.greenLigthFlash {
+    height:100px;
+    width:100px;
+    background: rgb(2, 138, 25);
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+}
